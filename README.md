@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Teki Chan @tekichan-tanf
+- 👀 I’m interested in Java
+- 🌱 I’m currently working for Java 
+- 💞️ I’m looking to collaborate on any of you
+- 📫 How to reach me: Slack
